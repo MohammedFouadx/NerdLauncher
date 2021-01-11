@@ -25,8 +25,8 @@
 
             <ImageView
                 android:id="@+id/appIcon"
-                android:layout_width="70dp"
-                android:layout_height="70dp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
                 android:layout_gravity="center"
                 android:layout_margin="2dp"
                 android:contentDescription="TODO"
